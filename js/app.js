@@ -19,6 +19,7 @@ function render(items) {
     return;
   }
   resultMeta.textContent = `${items.length} result${items.length !== 1 ? 's' : ''}`;
+
   for (const org of items) {
     const card = document.createElement('div');
     card.className = 'card';
@@ -63,12 +64,10 @@ function applyFilters() {
   const st = stateSel.value;
   let list = DATA;
   if (text) {
-    const results = fuse.search(text);
+    const results = new Fuse(DATA, { keys: ['name', 'city', 'state', 'ein', 'cause'], threshold: 0.3 }).search(text);
     list = results.map(r => r.item);
   }
-  if (st) {
-    list = list.filter(x => (x.state || '').toUpperCase() === st);
-  }
+  if (st) list = list.filter(x => (x.state || '').toUpperCase() === st);
   render(list);
 }
 
@@ -80,7 +79,7 @@ async function init() {
     ]);
     DATA = await dataRes.json();
     const meta = await metaRes.json().catch(() => ({}));
-    if (meta && meta.lastRefreshed) lastRef.textContent = meta.lastRefreshed; else lastRef.textContent = '—';
+    lastRef.textContent = meta?.lastRefreshed || '—';
     const states = Array.from(new Set(DATA.map(x => (x.state || '').toUpperCase()).filter(Boolean))).sort();
     for (const s of states) {
       const opt = document.createElement('option');

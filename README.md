@@ -1,25 +1,26 @@
-# Impact Finder (Lite) — Automated (US Nationwide)
-Free, static website to help people find verified nonprofits. Includes a **GitHub Actions** pipeline to refresh US data from official registries and enrich it (taxonomy + optional ratings).
+# Impact Finder (Lite) — IRS ZIP Flow
+US nationwide, low-admin. The GitHub Action downloads IRS ZIPs, extracts CSVs, builds `data/charities_us.json`, and (optionally) enriches ratings.
 
-## Deploy (GitHub Pages)
-1. Create a new **public** repo, upload all files, and commit.
-2. Repo **Settings → Pages** → Source: `Deploy from a branch`, Branch: `main`, Folder: `/ (root)`.
-3. Visit the published URL (e.g., `https://<user>.github.io/impact-finder-lite/`).
+## Deploy
+1) Create a **public** GitHub repo and upload this folder.
+2) Enable **GitHub Pages** (Settings → Pages → Deploy from branch → `main` → `/ (root)`).
+3) Visit your site URL.
 
-## Configure automation
-- Repo **Settings → Secrets and variables → Actions**:
-  - Variables:
-    - `IRS_ACTIVE_URL` — CSV/JSON for *active* exempt orgs (US)
-    - `IRS_REVOC_URL`  — CSV/JSON for *revocations* (optional)
-    - `MAX_RECORDS`    — cap results (default 20000)
-  - Secrets (optional):
-    - `CN_API_KEY` — Charity Navigator API key (skip if you don’t have one)
-- Go to **Actions** tab → run “Refresh US Charities” once to test.
-- The workflow also runs nightly (06:00 UTC).
+## Configure Variables (Settings → Secrets and variables → Actions → **Variables**)
+- `IRS_ACTIVE_URL` = `https://apps.irs.gov/pub/epostcard/data-download-pub78.zip`
+- `IRS_REVOC_URL`  = `https://apps.irs.gov/pub/epostcard/data-download-revocation.zip`
+- `MAX_RECORDS`    = `20000` (or your preference)
 
-## Files
-- Frontend: `index.html`, `js/app.js`, `data/charities_us.json`, `data/meta.json`
-- Scripts: `scripts/config.mjs`, `scripts/fetch-us-irs.mjs`, `scripts/enrich.mjs`
-- Workflow: `.github/workflows/refresh.yml`
+## (Optional) Secret (Settings → Secrets and variables → Actions → **Secrets**)
+- `CN_API_KEY` — Charity Navigator API key (if you want ratings enrichment in the future).
 
-**No scraping.** Uses official registries and outbound links. Keep the site fast and simple.
+## Run it
+- Go to **Actions** → “Refresh US Charities (IRS ZIP Flow)” → **Run workflow**.
+- The workflow will:
+  1. Download & unzip IRS files
+  2. Parse CSVs and generate `data/charities_us.json` + `data/meta.json`
+  3. (Optional) Enrich ratings if `CN_API_KEY` is set
+  4. Commit changes
+- GitHub Pages will republish automatically.
+
+**No scraping.** Uses official IRS downloads.
