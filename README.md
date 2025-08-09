@@ -1,26 +1,17 @@
-# Impact Finder (Lite) — IRS ZIP Flow
-US nationwide, low-admin. The GitHub Action downloads IRS ZIPs, extracts CSVs, builds `data/charities_us.json`, and (optionally) enriches ratings.
+# Impact Finder (Lite) — Build Script (downloads IRS ZIPs)
+This version lets the **Node build script** download & unzip the IRS data directly (no shell unzip step needed).
 
 ## Deploy
 1) Create a **public** GitHub repo and upload this folder.
 2) Enable **GitHub Pages** (Settings → Pages → Deploy from branch → `main` → `/ (root)`).
-3) Visit your site URL.
 
 ## Configure Variables (Settings → Secrets and variables → Actions → **Variables**)
 - `IRS_ACTIVE_URL` = `https://apps.irs.gov/pub/epostcard/data-download-pub78.zip`
-- `IRS_REVOC_URL`  = `https://apps.irs.gov/pub/epostcard/data-download-revocation.zip`
-- `MAX_RECORDS`    = `20000` (or your preference)
-
-## (Optional) Secret (Settings → Secrets and variables → Actions → **Secrets**)
-- `CN_API_KEY` — Charity Navigator API key (if you want ratings enrichment in the future).
+- `IRS_REVOCATIONS_URL` = `https://apps.irs.gov/pub/epostcard/data-download-revocation.zip`
+- `MAX_RECORDS` = `20000`
 
 ## Run it
-- Go to **Actions** → “Refresh US Charities (IRS ZIP Flow)” → **Run workflow**.
-- The workflow will:
-  1. Download & unzip IRS files
-  2. Parse CSVs and generate `data/charities_us.json` + `data/meta.json`
-  3. (Optional) Enrich ratings if `CN_API_KEY` is set
-  4. Commit changes
-- GitHub Pages will republish automatically.
+- Actions → **Refresh Charity Data** → Run workflow.
+- The workflow installs deps, runs `scripts/build-data.mjs`, and commits `data/charities_us.json` + `data/meta.json`.
 
-**No scraping.** Uses official IRS downloads.
+**No scraping.** Uses official IRS downloads. You can add ratings enrichment later.
