@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Utah Food Bank",
+    "ein": "87-0212453",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "website": "https://www.utahfoodbank.org/",
+    "cause": "Hunger Relief"
+  },
+  {
+    "name": "Best Friends Animal Society",
+    "ein": "23-7147797",
+    "city": "Kanab",
+    "state": "UT",
+    "website": "https://bestfriends.org/",
+    "cause": "Animal Welfare"
+  },
+  {
+    "name": "Doctors Without Borders USA",
+    "ein": "13-3433452",
+    "city": "New York",
+    "state": "NY",
+    "website": "https://www.doctorswithoutborders.org/",
+    "cause": "Global Health"
+  }
+]
