@@ -1,9 +1,9 @@
 name: Refresh Charity Data
 
 on:
-  workflow_dispatch: {}   # lets you run it manually
+  workflow_dispatch: {}   # Run manually
   schedule:
-    - cron: "0 6 * * 1"   # every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"   # Every Monday at 06:00 UTC
 
 jobs:
   build:
@@ -17,14 +17,13 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Install deps
-        run: npm install node-fetch@3 csv-parse@5
+      - name: Install dependencies
+        run: npm install node-fetch@3 unzipper@0 csv-parse@5
 
-      - name: Build data
+      - name: Build charity data
         run: |
           mkdir -p data
           node scripts/build-data.mjs
-
         env:
           IRS_ACTIVE_URL: ${{ vars.IRS_ACTIVE_URL }}
           IRS_REVOCATIONS_URL: ${{ vars.IRS_REVOCATIONS_URL }}
@@ -34,6 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add data/charities_us.json
+          git add data/charities_us.json data/meta.json
           git commit -m "Update charity dataset" || echo "No changes"
           git push
