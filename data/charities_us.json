@@ -1,18 +1,702 @@
 [
   {
-    "name": "Utah Food Bank",
-    "ein": "87-0212453",
-    "city": "Salt Lake City",
-    "state": "UT",
-    "website": "https://www.utahfoodbank.org/",
-    "cause": "Hunger Relief"
+    "name": "Uss Florida Gold Fcpoa",
+    "ein": "934466910",
+    "city": "Fpo",
+    "state": "AA",
+    "cause": "Human Services"
   },
   {
-    "name": "Feeding America",
-    "ein": "36-3673599",
-    "city": "Chicago",
-    "state": "IL",
-    "website": "https://www.feedingamerica.org/",
-    "cause": "Hunger Relief"
+    "name": "31st Communications Sq Booster Club",
+    "ein": "922475524",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "95th Crusaders Club",
+    "ein": "465323204",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Acts One-Way Apostalic Church Inc.",
+    "ein": "311254176",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Alconbury Molesworth Spouse Club",
+    "ein": "824904551",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Americans Working Around the Globe",
+    "ein": "800964460",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Animals Without Limits Inc.",
+    "ein": "680678031",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Aviano Elementary School PTA",
+    "ein": "883300215",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Aviano Thrift Shop",
+    "ein": "474623269",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Brussels Consignment Shop",
+    "ein": "994418690",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Calvary Chapel K-Town",
+    "ein": "841623314",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Chabelley Camel Club",
+    "ein": "332104922",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Community Church of Tehran Iran",
+    "ein": "237167109",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Det 24 Booster Club",
+    "ein": "883430915",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "District 1 Internationale VFW",
+    "ein": "901012400",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Health Care"
+  },
+  {
+    "name": "Eur Cvma 52-1",
+    "ein": "920447425",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "European Parent Teacher Student Association",
+    "ein": "933520416",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Family2family Sponsors Inc.",
+    "ein": "845144212",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Feltwell Elementary School Pto",
+    "ein": "980139325",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Focus on Jesus Inc.",
+    "ein": "980450012",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Hershel Williams Cpoa",
+    "ein": "831513266",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Just for Him-J4h-Ministry",
+    "ein": "271982987",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Knights of Columbus",
+    "ein": "412277710",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Health Care"
+  },
+  {
+    "name": "Landstuhl Parents Teachers and Students Association",
+    "ein": "980125241",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Love in Deed Inc.",
+    "ein": "814925144",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Mildenhall Spouses Association",
+    "ein": "933644283",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Mississippi Renaissance Festival",
+    "ein": "873112326",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Napoli Operational Support Club",
+    "ein": "813878568",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Quiet Clean Virginia Foundation",
+    "ein": "883231891",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Raf Lakenheath Mens Varsity Softball Team",
+    "ein": "994840492",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Robert Lecompte Ministries Inc.",
+    "ein": "472790977",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Rota Animal Welfare League",
+    "ein": "470947909",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Seed of Life World Ministries",
+    "ein": "061700976",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Spangdahlem First Sergeant Council",
+    "ein": "333136145",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Spangdahlem Top III",
+    "ein": "993851895",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Stuttgart Eagles",
+    "ein": "922209155",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Syg Inc.",
+    "ein": "834384552",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Team Mildenhall 1st Sgt Operation Warm Heart Council",
+    "ein": "872599864",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Tres Dias of Germany",
+    "ein": "660620871",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Uss John C Stennis Cvn 74",
+    "ein": "871788200",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Uss Mitscher Cpoa",
+    "ein": "932868719",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Uss Wasp First Class Petty Officers Association",
+    "ein": "931456776",
+    "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Veterans of Foreign Wars Post 10614",
+    "ein": "980069849",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Health Care"
+  },
+  {
+    "name": "Vicenza Community Club",
+    "ein": "980660433",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Wiesbaden Community Spouses Club Inc.",
+    "ein": "833459609",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Wiesbaden High School Parent Teacher Student Organization",
+    "ein": "853282864",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "10 Chefs Inc.",
+    "ein": "824993802",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "1000 Hills Resources Inc.",
+    "ein": "845077919",
+    "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "153 Fish Camp",
+    "ein": "853282453",
+    "city": "Ketchikan",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "2359 Vision",
+    "ein": "850812867",
+    "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "2x2 Cancer Walk",
+    "ein": "331053248",
+    "city": "Cordova",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "3 to 5 Preschool Inc.",
+    "ein": "920060105",
+    "city": "Sitka",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "350 Juneau",
+    "ein": "823583489",
+    "city": "Juneau",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "355 Fgs Booster Club",
+    "ein": "333448434",
+    "city": "Eielson Afb",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "3rd Oss Booster Club",
+    "ein": "462222432",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "49 Writers Inc.",
+    "ein": "272460995",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "4ubu Ministries Inc.",
+    "ein": "873475202",
+    "city": "Palmer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "517 As Operations Enlisted Pro",
+    "ein": "275244019",
+    "city": "Elmendorf Afb",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "673 Sfs Defender Association",
+    "ein": "994261398",
+    "city": "Jber",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "703 Amxs Heavy Metal Booster Club",
+    "ein": "473772977",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "732 Ams Husky Booster Club",
+    "ein": "383788798",
+    "city": "Jber",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "907 Diesel",
+    "ein": "365022416",
+    "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "907 Premier Soccer Academy Inc.",
+    "ein": "463655557",
+    "city": "Wasilla",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "907vets Inc.",
+    "ein": "851785257",
+    "city": "Homer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "A Black Sheep Ministry Inc.",
+    "ein": "862771737",
+    "city": "Wasilla",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "A Home 4 US Inc.",
+    "ein": "871401905",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "A Need4deeds Inc.",
+    "ein": "923113825",
+    "city": "Wasilla",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "A Simple Smile Inc.",
+    "ein": "853136207",
+    "city": "Homer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "A Voice in the Wilderness Ministries",
+    "ein": "920162715",
+    "city": "Soldotna",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Aakw Kwaan Coalition Council",
+    "ein": "863343007",
+    "city": "Douglas",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Aasc Housing I Inc.",
+    "ein": "920161891",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Aasc II",
+    "ein": "205544885",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Ab House Inc.",
+    "ein": "920059212",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Ab Patterson Community Ministry",
+    "ein": "851399010",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abate of Anchorage Inc.",
+    "ein": "920095913",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abba Fathers Christian Fellowship Church Inc.",
+    "ein": "454026586",
+    "city": "Kodiak",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abbott Loop Community Chapel Incorporated",
+    "ein": "920040271",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abbott Loop Community Chapel Incorporated",
+    "ein": "926003020",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abbott Loop Pto",
+    "ein": "475078997",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "ABC Pregnancy Care Center",
+    "ein": "920113488",
+    "city": "Kenai",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "ABC Preschool",
+    "ein": "920109547",
+    "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "ABC Wrestling",
+    "ein": "921333277",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abrahamic Interfaith Communities",
+    "ein": "854254997",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abundant Life Chapel of Wasilla Incorporated",
+    "ein": "920088677",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abundant Life Covenant Church",
+    "ein": "920175614",
+    "city": "Wasilla",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abundant Life Fellowship Inc.",
+    "ein": "920091745",
+    "city": "Palmer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abundant Life Ministries Inc.",
+    "ein": "920161093",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abundant Life Services",
+    "ein": "994626962",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abused Womens Aid in Crisis Incorporated",
+    "ein": "920061049",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Academia Lux Borealis Lodge 25",
+    "ein": "992291229",
+    "city": "Valdez",
+    "state": "AK",
+    "cause": "Health Care"
+  },
+  {
+    "name": "Academy Advisory Board Inc.",
+    "ein": "920161596",
+    "city": "Palmer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Acca Inc.",
+    "ein": "920026479",
+    "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Access Alaska Inc.",
+    "ein": "920089550",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Ace Volleyball Academy",
+    "ein": "813554277",
+    "city": "Wasilla",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Acsa-Asdn Education Services",
+    "ein": "833652317",
+    "city": "Juneau",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Action by Faith Inc.",
+    "ein": "251881397",
+    "city": "Eagle River",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Action Ministries Inc.",
+    "ein": "270568976",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Acts 247",
+    "ein": "475454285",
+    "city": "Wasilla",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Acts 247 Recovery Church of Soldotna Inc.",
+    "ein": "844373737",
+    "city": "Soldotna",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Acts Four Altarnative Rehab Inc.",
+    "ein": "920637459",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
   }
 ]
