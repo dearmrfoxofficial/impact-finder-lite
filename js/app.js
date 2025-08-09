@@ -1,6 +1,5 @@
 // Minimal client-side app: loads a small JSON of charities and supports fuzzy search.
-// MVP uses a curated sample to launch instantly. Later you can automate bigger datasets.
-
+// Uses a relative path so it works on GitHub Pages project sites (e.g., /impact-finder-lite/).
 const grid = document.getElementById('grid');
 const q = document.getElementById('q');
 const stateSel = document.getElementById('state');
@@ -85,7 +84,7 @@ function applyFilters() {
 
 async function init() {
   try {
-    const res = await fetch('/data/charities_us.json');
+    const res = await fetch('data/charities_us.json');
     DATA = await res.json();
 
     // Populate states
