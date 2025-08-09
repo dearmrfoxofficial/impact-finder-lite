@@ -51,7 +51,8 @@ function applyFilters() {
 
 async function init() {
   try {
-    const [dataRes, metaRes] = await Promise.all([ fetch('data/charities_us.json'), fetch('data/meta.json') ]);
+    const [dataRes, metaRes] = await Promise.all([ fetch('data/charities_us.json?v=' + Date.now())
+, fetch('data/meta.json?v=' + Date.now()) ]);
     DATA = await dataRes.json();
     const meta = await metaRes.json().catch(()=>({}));
     lastRef.textContent = meta?.lastRefreshed || '—';
