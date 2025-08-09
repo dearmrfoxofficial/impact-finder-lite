@@ -8,22 +8,6 @@
     "cause": "Hunger Relief"
   },
   {
-    "name": "Best Friends Animal Society",
-    "ein": "23-7147797",
-    "city": "Kanab",
-    "state": "UT",
-    "website": "https://bestfriends.org/",
-    "cause": "Animal Welfare"
-  },
-  {
-    "name": "Doctors Without Borders USA",
-    "ein": "13-3433452",
-    "city": "New York",
-    "state": "NY",
-    "website": "https://www.doctorswithoutborders.org/",
-    "cause": "Global Health"
-  },
-  {
     "name": "Feeding America",
     "ein": "36-3673599",
     "city": "Chicago",
@@ -134,14 +118,6 @@
     "state": "NY",
     "website": "https://www.unicefusa.org/",
     "cause": "Children's Aid"
-  },
-  {
-    "name": "Planned Parenthood Federation of America",
-    "ein": "13-1644147",
-    "city": "New York",
-    "state": "NY",
-    "website": "https://www.plannedparenthood.org/",
-    "cause": "Health Services"
   },
   {
     "name": "Team Rubicon",
