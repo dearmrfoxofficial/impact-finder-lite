@@ -14,6 +14,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "603 Aoc Top 3",
+    "ein": "472146446",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "95th Crusaders Club",
     "ein": "465323204",
     "city": "Apo",
@@ -31,6 +38,13 @@
     "name": "Alconbury Molesworth Spouse Club",
     "ein": "824904551",
     "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "American Community School of Athens Inc.",
+    "ein": "980013358",
+    "city": "Dpo",
     "state": "AE",
     "cause": "Human Services"
   },
@@ -58,6 +72,13 @@
   {
     "name": "Aviano Thrift Shop",
     "ein": "474623269",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Brussels American School Booster Club",
+    "ein": "850864208",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
@@ -476,13 +497,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "A Voice in the Wilderness Ministries",
-    "ein": "920162715",
-    "city": "Soldotna",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
     "name": "Aakw Kwaan Coalition Council",
     "ein": "863343007",
     "city": "Douglas",
@@ -665,13 +679,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "Action by Faith Inc.",
-    "ein": "251881397",
-    "city": "Eagle River",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
     "name": "Action Ministries Inc.",
     "ein": "270568976",
     "city": "Anchorage",
@@ -689,13 +696,6 @@
     "name": "Acts 247 Recovery Church of Soldotna Inc.",
     "ein": "844373737",
     "city": "Soldotna",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Acts Four Altarnative Rehab Inc.",
-    "ein": "920637459",
-    "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
   }
