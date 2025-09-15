@@ -7,6 +7,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "31 Mxs Booster Club",
+    "ein": "473341861",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "31st Communications Sq Booster Club",
     "ein": "922475524",
     "city": "Apo",
@@ -38,13 +45,6 @@
     "name": "Alconbury Molesworth Spouse Club",
     "ein": "824904551",
     "city": "Apo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
-    "name": "American Community School of Athens Inc.",
-    "ein": "980013358",
-    "city": "Dpo",
     "state": "AE",
     "cause": "Human Services"
   },
@@ -135,13 +135,6 @@
   {
     "name": "European Parent Teacher Student Association",
     "ein": "933520416",
-    "city": "Apo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Family2family Sponsors Inc.",
-    "ein": "845144212",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
@@ -514,6 +507,13 @@
     "name": "Aasc II",
     "ein": "205544885",
     "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Aatc Booster Club",
+    "ein": "392147049",
+    "city": "Soldotna",
     "state": "AK",
     "cause": "Human Services"
   },
