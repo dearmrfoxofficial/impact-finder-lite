@@ -42,6 +42,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Afnorth International Elementary School Pto",
+    "ein": "834000671",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Alconbury Molesworth Spouse Club",
     "ein": "824904551",
     "city": "Apo",
@@ -266,6 +273,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Stuttgart Veterans of Foreign Wars Post 10810",
+    "ein": "133537034",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Health Care"
+  },
+  {
     "name": "Syg Inc.",
     "ein": "834384552",
     "city": "Apo",
@@ -353,6 +367,13 @@
     "name": "153 Fish Camp",
     "ein": "853282453",
     "city": "Ketchikan",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "17 Three Ministries",
+    "ein": "334720596",
+    "city": "Houston",
     "state": "AK",
     "cause": "Human Services"
   },
@@ -458,6 +479,13 @@
     "name": "907vets Inc.",
     "ein": "851785257",
     "city": "Homer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "A Bigger Table Asia",
+    "ein": "392295090",
+    "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
   },
@@ -668,34 +696,6 @@
     "name": "Ace Volleyball Academy",
     "ein": "813554277",
     "city": "Wasilla",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Acsa-Asdn Education Services",
-    "ein": "833652317",
-    "city": "Juneau",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Action Ministries Inc.",
-    "ein": "270568976",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Acts 247",
-    "ein": "475454285",
-    "city": "Wasilla",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Acts 247 Recovery Church of Soldotna Inc.",
-    "ein": "844373737",
-    "city": "Soldotna",
     "state": "AK",
     "cause": "Human Services"
   }
