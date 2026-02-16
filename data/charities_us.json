@@ -77,6 +77,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Aran Immigration Support Foundation",
+    "ein": "412298568",
+    "city": "Dpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Aviano Elementary School PTA",
     "ein": "883300215",
     "city": "Apo",
@@ -196,6 +203,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Kaiserslautern Kingfish Swim Team",
+    "ein": "883780802",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Knights of Columbus",
     "ein": "412277710",
     "city": "Apo",
@@ -259,13 +273,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "Rota Animal Welfare League",
-    "ein": "470947909",
-    "city": "Fpo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
     "name": "Seed of Life World Ministries",
     "ein": "061700976",
     "city": "Apo",
@@ -285,6 +292,13 @@
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
+  },
+  {
+    "name": "Stuttgart Ball Committee Air Force",
+    "ein": "931491667",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Health Care"
   },
   {
     "name": "Stuttgart Eagles",
@@ -682,20 +696,6 @@
     "name": "Abused Womens Aid in Crisis Incorporated",
     "ein": "920061049",
     "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Academia Lux Borealis Lodge 25",
-    "ein": "992291229",
-    "city": "Valdez",
-    "state": "AK",
-    "cause": "Health Care"
-  },
-  {
-    "name": "Academy Advisory Board Inc.",
-    "ein": "920161596",
-    "city": "Palmer",
     "state": "AK",
     "cause": "Human Services"
   }
