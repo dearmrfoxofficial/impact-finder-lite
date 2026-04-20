@@ -56,8 +56,22 @@
     "cause": "Human Services"
   },
   {
+    "name": "Al Kerak Temple No 194 - Aeaonms",
+    "ein": "414278601",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Alconbury Molesworth Spouse Club",
     "ein": "824904551",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Allied Spouses of Geilenkirchen",
+    "ein": "980370665",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
@@ -73,13 +87,6 @@
     "name": "Animals Without Limits Inc.",
     "ein": "680678031",
     "city": "Apo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Aran Immigration Support Foundation",
-    "ein": "412298568",
-    "city": "Dpo",
     "state": "AE",
     "cause": "Human Services"
   },
@@ -147,13 +154,6 @@
     "cause": "Health Care"
   },
   {
-    "name": "Eur Cvma 52-1",
-    "ein": "920447425",
-    "city": "Apo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
     "name": "European Parent Teacher Student Association",
     "ein": "933520416",
     "city": "Apo",
@@ -170,6 +170,13 @@
   {
     "name": "Focus on Jesus Inc.",
     "ein": "980450012",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Foundation - Theta Theta Lambda Cha Pter of Alpha Phi Alpha",
+    "ein": "414615139",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
@@ -234,6 +241,13 @@
     "name": "Mississippi Renaissance Festival",
     "ein": "873112326",
     "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Naples Community Wild Lost and Dome Stic Cats and Pets",
+    "ein": "412889980",
+    "city": "Fpo",
     "state": "AE",
     "cause": "Human Services"
   },
@@ -329,6 +343,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "T E A M Kagele",
+    "ein": "882804034",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Team Mildenhall 1st Sgt Operation Warm Heart Council",
     "ein": "872599864",
     "city": "Apo",
@@ -357,13 +378,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "Uss Wasp First Class Petty Officers Association",
-    "ein": "931456776",
-    "city": "Fpo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
     "name": "Veterans of Foreign Wars Post 10614",
     "ein": "980069849",
     "city": "Apo",
@@ -373,6 +387,13 @@
   {
     "name": "Vicenza Community Club",
     "ein": "980660433",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Vilseck Vipers Softball",
+    "ein": "981915297",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
@@ -448,9 +469,16 @@
     "cause": "Human Services"
   },
   {
+    "name": "354 Oss Booster Club - Club Oss",
+    "ein": "113735032",
+    "city": "Eielson Afb",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
     "name": "354th Mdg Booster Club",
     "ein": "412367140",
-    "city": "Eielson",
+    "city": "Eielson Afb",
     "state": "AK",
     "cause": "Human Services"
   },
@@ -667,34 +695,6 @@
   {
     "name": "Abrahamic Interfaith Communities",
     "ein": "854254997",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abundant Life Chapel of Wasilla Incorporated",
-    "ein": "920088677",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abundant Life Covenant Church",
-    "ein": "920175614",
-    "city": "Wasilla",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abundant Life Fellowship Inc.",
-    "ein": "920091745",
-    "city": "Palmer",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abundant Life Ministries Inc.",
-    "ein": "920161093",
     "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
