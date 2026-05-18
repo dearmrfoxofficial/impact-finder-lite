@@ -91,6 +91,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Aran Immigration Support Foundation",
+    "ein": "412298568",
+    "city": "Dpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Aviano Thrift Shop",
     "ein": "474623269",
     "city": "Apo",
@@ -101,6 +108,13 @@
     "name": "Bahrain School Booster Club",
     "ein": "332940385",
     "city": "Fpo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Bridge of Grace Foundation",
+    "ein": "882362744",
+    "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
   },
@@ -357,13 +371,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "The Coachella Valley Housing Coalition",
-    "ein": "953814898",
-    "city": "Apo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
     "name": "Uss John C Stennis Cvn 74",
     "ein": "871788200",
     "city": "Fpo",
@@ -423,6 +430,13 @@
     "name": "1000 Hills Resources Inc.",
     "ein": "845077919",
     "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "1004 Foundation",
+    "ein": "414934372",
+    "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
   },
@@ -588,6 +602,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "A Neue Now",
+    "ein": "462394768",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
     "name": "A Simple Smile Inc.",
     "ein": "853136207",
     "city": "Homer",
@@ -675,27 +696,6 @@
     "name": "ABC Pregnancy Care Center",
     "ein": "920113488",
     "city": "Kenai",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "ABC Preschool",
-    "ein": "920109547",
-    "city": "Fairbanks",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "ABC Wrestling",
-    "ein": "921333277",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abrahamic Interfaith Communities",
-    "ein": "854254997",
-    "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
   }
