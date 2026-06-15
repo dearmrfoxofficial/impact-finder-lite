@@ -147,6 +147,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Charitylemonade",
+    "ein": "422032993",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Community Church of Tehran Iran",
     "ein": "237167109",
     "city": "Apo",
@@ -189,7 +196,7 @@
     "cause": "Human Services"
   },
   {
-    "name": "Foundation - Theta Theta Lambda Cha Pter of Alpha Phi Alpha",
+    "name": "Foundation - Theta Theta Lambda Chapter of Alpha Phi Alpha",
     "ein": "414615139",
     "city": "Apo",
     "state": "AE",
@@ -294,13 +301,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "Robert Lecompte Ministries Inc.",
-    "ein": "472790977",
-    "city": "Fpo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
     "name": "Rota Animal Welfare League",
     "ein": "470947909",
     "city": "Fpo",
@@ -373,13 +373,6 @@
   {
     "name": "Uss John C Stennis Cvn 74",
     "ein": "871788200",
-    "city": "Fpo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Uss Mitscher Cpoa",
-    "ein": "932868719",
     "city": "Fpo",
     "state": "AE",
     "cause": "Human Services"
@@ -553,6 +546,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "8 Senses Foundation",
+    "ein": "413809210",
+    "city": "Kodiak",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
     "name": "907 Diesel",
     "ein": "365022416",
     "city": "Fairbanks",
@@ -623,6 +623,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Aanchichx Kwaan",
+    "ein": "931506488",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
     "name": "Aasc Housing I Inc.",
     "ein": "920161891",
     "city": "Anchorage",
@@ -689,13 +696,6 @@
     "name": "Abbott Loop Pto",
     "ein": "475078997",
     "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "ABC Pregnancy Care Center",
-    "ein": "920113488",
-    "city": "Kenai",
     "state": "AK",
     "cause": "Human Services"
   }
