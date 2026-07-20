@@ -1,5 +1,12 @@
 [
   {
+    "name": "Seabee Ball Committee",
+    "ein": "422979738",
+    "city": "Fpo",
+    "state": "AA",
+    "cause": "Human Services"
+  },
+  {
     "name": "Uss Florida Gold Fcpoa",
     "ein": "934466910",
     "city": "Fpo",
@@ -315,6 +322,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "Society of American Military Engineers",
+    "ein": "980097848",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Human Services"
+  },
+  {
     "name": "Spangdahlem First Sergeant Council",
     "ein": "333136145",
     "city": "Apo",
@@ -567,13 +581,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "907vets Inc.",
-    "ein": "851785257",
-    "city": "Homer",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
     "name": "A Bigger Table Asia",
     "ein": "392295090",
     "city": "Anchorage",
@@ -688,13 +695,6 @@
   {
     "name": "Abbott Loop Community Chapel Incorporated",
     "ein": "926003020",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abbott Loop Pto",
-    "ein": "475078997",
     "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
