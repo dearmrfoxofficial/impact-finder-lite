@@ -7,13 +7,6 @@
     "cause": "Human Services"
   },
   {
-    "name": "Uss Florida Gold Fcpoa",
-    "ein": "934466910",
-    "city": "Fpo",
-    "state": "AA",
-    "cause": "Human Services"
-  },
-  {
     "name": "31 Mxs Booster Club",
     "ein": "473341861",
     "city": "Apo",
@@ -175,18 +168,18 @@
     "cause": "Human Services"
   },
   {
-    "name": "District 1 Internationale VFW",
-    "ein": "901012400",
-    "city": "Apo",
-    "state": "AE",
-    "cause": "Health Care"
-  },
-  {
     "name": "European Parent Teacher Student Association",
     "ein": "933520416",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
+  },
+  {
+    "name": "Faisal Temple 192",
+    "ein": "310903269",
+    "city": "Apo",
+    "state": "AE",
+    "cause": "Health Care"
   },
   {
     "name": "Feltwell Elementary School Pto",
@@ -261,13 +254,6 @@
   {
     "name": "Mildenhall Spouses Association",
     "ein": "933644283",
-    "city": "Apo",
-    "state": "AE",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Mississippi Renaissance Festival",
-    "ein": "873112326",
     "city": "Apo",
     "state": "AE",
     "cause": "Human Services"
@@ -390,13 +376,6 @@
     "city": "Fpo",
     "state": "AE",
     "cause": "Human Services"
-  },
-  {
-    "name": "Veterans of Foreign Wars Post 10614",
-    "ein": "980069849",
-    "city": "Apo",
-    "state": "AE",
-    "cause": "Health Care"
   },
   {
     "name": "Vicenza Community Club",
@@ -553,16 +532,16 @@
     "cause": "Human Services"
   },
   {
-    "name": "732 Ams Husky Booster Club",
-    "ein": "383788798",
-    "city": "Jber",
+    "name": "8 Senses Foundation",
+    "ein": "413809210",
+    "city": "Kodiak",
     "state": "AK",
     "cause": "Human Services"
   },
   {
-    "name": "8 Senses Foundation",
-    "ein": "413809210",
-    "city": "Kodiak",
+    "name": "90 Fgs Booster Club",
+    "ein": "333177098",
+    "city": "Jber",
     "state": "AK",
     "cause": "Human Services"
   },
@@ -584,27 +563,6 @@
     "name": "A Bigger Table Asia",
     "ein": "392295090",
     "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "A Black Sheep Ministry Inc.",
-    "ein": "862771737",
-    "city": "Wasilla",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "A Home 4 US Inc.",
-    "ein": "871401905",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "A Need4deeds Inc.",
-    "ein": "923113825",
-    "city": "Wasilla",
     "state": "AK",
     "cause": "Human Services"
   },
@@ -695,6 +653,48 @@
   {
     "name": "Abbott Loop Community Chapel Incorporated",
     "ein": "926003020",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abbott Loop Pto",
+    "ein": "475078997",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "ABC Pregnancy Care Center",
+    "ein": "920113488",
+    "city": "Kenai",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "ABC Preschool",
+    "ein": "920109547",
+    "city": "Fairbanks",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "ABC Wrestling",
+    "ein": "921333277",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abrahamic Interfaith Communities",
+    "ein": "854254997",
+    "city": "Anchorage",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
+    "name": "Abundant Life Chapel of Wasilla Incorporated",
+    "ein": "920088677",
     "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
