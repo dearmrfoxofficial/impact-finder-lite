@@ -497,6 +497,13 @@
     "cause": "Human Services"
   },
   {
+    "name": "49 Forward",
+    "ein": "334996678",
+    "city": "Homer",
+    "state": "AK",
+    "cause": "Human Services"
+  },
+  {
     "name": "49 Writers Inc.",
     "ein": "272460995",
     "city": "Anchorage",
@@ -688,13 +695,6 @@
   {
     "name": "Abrahamic Interfaith Communities",
     "ein": "854254997",
-    "city": "Anchorage",
-    "state": "AK",
-    "cause": "Human Services"
-  },
-  {
-    "name": "Abundant Life Chapel of Wasilla Incorporated",
-    "ein": "920088677",
     "city": "Anchorage",
     "state": "AK",
     "cause": "Human Services"
